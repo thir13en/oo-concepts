@@ -1,2 +1,6 @@
-# oo-concepts
-Object Oriented Concepts
+# Object Oriented Concepts
+
+### Class
+### Instance
+### Inheritance
+### Encapsulation
