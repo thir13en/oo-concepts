@@ -7,3 +7,6 @@ Classes are meant to be `instantiated`, meaning creating an ocurrence of an obje
 ```java
 ClassName className = new ClassName();
 ```
+
+### Changing properties of classes
+It is preferred to do it throgh `getters` and `setters`, in order to encapsulate and be able to apply validation or any kind of business logic as a side effect.
